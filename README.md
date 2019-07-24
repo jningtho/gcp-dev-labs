@@ -1,4 +1,4 @@
-##GCPCloud Build Lab
+## GCPCloud Build Lab
 ### [Official Doc](https://cloud.google.com/cloud-build/docs/)
 
 Cloud Build is a service that executes your builds on Google Cloud Platform infrastructure. Cloud Build can import source code from `Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket,` execute a build to your specifications, and produce artifacts such as Docker containers or Java archives.
